@@ -48,7 +48,8 @@
 
 
 .content {
-    margin-top: 45px;
+    margin: 45px 5px auto 5px;
+    
 }
 
 /********* Simple Responsive Framework ********/
